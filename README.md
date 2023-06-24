@@ -4,7 +4,7 @@ WhatToEat? is a web application that allows users to search for recipes and save
 
 ## Screenshot
 
-https://ibb.co/S3Yrjs5
+<a href="https://ibb.co/S3Yrjs5"><img src="https://i.ibb.co/71M4fYj/end-game.png" alt="end-game" border="0" /></a>
 
 ### Built with
 
