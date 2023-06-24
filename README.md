@@ -2,6 +2,10 @@
 
 WhatToEat? is a web application that allows users to search for recipes and save their favorite recipes to a personalized favorite list.
 
+## Screenshot
+
+https://ibb.co/S3Yrjs5
+
 ### Built with
 
 - HTML5
@@ -11,6 +15,6 @@ WhatToEat? is a web application that allows users to search for recipes and save
 - [React](https://reactjs.org/) - JS library
 - [TheMealDB API](https://www.themealdb.com/api.php)
 
-## Made by
+#### Made by
 
 GitHub: https://github.com/Karolis6
